@@ -1,7 +1,7 @@
 The gh-pages branch of this repository contains several PDFs, some with digital signaturea, some without and some with passwords. These files were all found on the web.
 
 ## Signed
-- [BILLS-106s761enr.pdf](https://peculiarventures.github.io/ExamplePDFs/signed//BILLS-106s761enr.pdf)
+- [BILLS-106s761enr.pdf](https://peculiarventures.github.io/ExamplePDFs/signed/BILLS-106s761enr.pdf)
 - [signed_example_diploma.pdf](https://peculiarventures.github.io/ExamplePDFs/signed/signed_example_diploma.pdf)
 - [LuxTrust_Cloud_Signature_policy_1.1.0.pdf](https://peculiarventures.github.io/ExamplePDFs/signed/LuxTrust_Cloud_Signature_policy_1.1.0.pdf)
 
