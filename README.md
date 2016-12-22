@@ -15,4 +15,4 @@ The gh-pages branch of this repository contains several PDFs, some with digital 
 
 
 ## Password Protected
-- [password encrypted - test.pdf](://peculiarventures.github.io/ExamplePDFs/unsigned/password encrypted - test.pdf) 
+- [password encrypted - test.pdf](https://peculiarventures.github.io/ExamplePDFs/unsigned/password encrypted - test.pdf) 
