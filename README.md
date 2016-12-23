@@ -1,5 +1,19 @@
-The gh-pages branch of this repository contains several PDFs with digital signatures found on the web that can be used as examples when verifying PDFs online.
+The gh-pages branch of this repository contains several PDFs, some with digital signaturea, some without and some with passwords. These files were all found on the web.
 
-- [BILLS-106s761enr.pdf](https://peculiarventures.github.io/ExamplePDFs/BILLS-106s761enr.pdf)
-- [signed_example_diploma.pdf](https://peculiarventures.github.io/ExamplePDFs/signed_example_diploma.pdf)
-- [LuxTrust_Cloud_Signature_policy_1.1.0.pdf](https://peculiarventures.github.io/ExamplePDFs/LuxTrust_Cloud_Signature_policy_1.1.0.pdf)
+## Signed
+- [BILLS-106s761enr.pdf](https://peculiarventures.github.io/ExamplePDFs/signed/BILLS-106s761enr.pdf)
+- [signed_example_diploma.pdf](https://peculiarventures.github.io/ExamplePDFs/signed/signed_example_diploma.pdf)
+- [LuxTrust_Cloud_Signature_policy_1.1.0.pdf](https://peculiarventures.github.io/ExamplePDFs/signed/LuxTrust_Cloud_Signature_policy_1.1.0.pdf)
+- [DigiCert_CP_v410-Sept-12-2016-signed.pdf](https://peculiarventures.github.io/ExamplePDFs/signed/DigiCert_CP_v410-Sept-12-2016-signed.pdf)
+
+## Unsigned
+- [f1040.pdf](https://peculiarventures.github.io/ExamplePDFs/unsigned/f1040.pdf)
+- [fw9.pdf](https://peculiarventures.github.io/ExamplePDFs/unsigned/fw9.pdf)
+- [ss-5.pdf](https://peculiarventures.github.io/ExamplePDFs/unsigned/ss-5.pdf)
+- [UoW1993.pdf](https://peculiarventures.github.io/ExamplePDFs/unsigned/UoW1993.pdf)
+- [i983.pdf](https://peculiarventures.github.io/ExamplePDFs/unsigned/i983.pdf)
+- [RMJ1_atf-f-4473-1.pdf](https://peculiarventures.github.io/ExamplePDFs/unsigned/RMJ1_atf-f-4473-1.pdf)
+
+
+## Password Protected
+- [password encrypted - test.pdf](https://peculiarventures.github.io/ExamplePDFs/password/password encrypted - test.pdf) 
