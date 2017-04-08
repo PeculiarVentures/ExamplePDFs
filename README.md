@@ -30,3 +30,4 @@ The gh-pages branch of this repository contains several PDFs, some with digital 
 - [sampleforms.doc](https://peculiarventures.github.io/ExamplePDFs/notPDFs/sampleforms.doc)
 - [contract-nda.doc](https://peculiarventures.github.io/ExamplePDFs/notPDFs/contract-nda.doc)q
 - [InvoiceTemplate.docx](https://peculiarventures.github.io/ExamplePDFs/notPDFs/InvoiceTemplate.docx)
+- [Letter-of-Intent-Employment-Contract-Word-Format.doc](https://peculiarventures.github.io/ExamplePDFs/notPDFs/Letter-of-Intent-Employment-Contract-Word-Format.doc)
