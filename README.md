@@ -29,3 +29,4 @@ The gh-pages branch of this repository contains several PDFs, some with digital 
 ## Not PDFs Yet
 - [sampleforms.doc](https://peculiarventures.github.io/ExamplePDFs/notPDFs/sampleforms.doc)
 - [contract-nda.doc](https://peculiarventures.github.io/ExamplePDFs/notPDFs/contract-nda.doc)
+- [InvoiceTemplate.docx](https://peculiarventures.github.io/ExamplePDFs/notPDFs/InvoiceTemplate.docx)
