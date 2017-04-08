@@ -16,8 +16,16 @@ The gh-pages branch of this repository contains several PDFs, some with digital 
 - [212241.pdf](https://peculiarventures.github.io/ExamplePDFs/unsigned/212241.pdf)
 - [DD4](https://peculiarventures.github.io//ExamplePDFs/unsigned/dd0004.pdf)
 - [DD93](https://peculiarventures.github.io//ExamplePDFs/unsigned/dd0093.pdf)
-- [NWMLS-PURCHASE](https://peculiarventures.github.io//ExamplePDFs/unsigned//Sample-Purchase-agreement.pdf)
+- [NWMLS-PURCHASE](https://peculiarventures.github.io//ExamplePDFs/unsigned/Sample-Purchase-agreement.pdf)
 - [NWMLS-SELLERDISCLOSURE](https://peculiarventures.github.io//ExamplePDFs/unsigned/17-Seller-Disclosure.pdf)
+- [CPAA](https://peculiarventures.github.io//ExamplePDFs/unsigned/CPAA.pdf)
+- [N-DA](https://peculiarventures.github.io//ExamplePDFs/unsigned/N-DA.pdf)
+- [RfRoTR](https://peculiarventures.github.io//ExamplePDFs/unsigned/RfRoTR.pdf)
+- [URLA](https://peculiarventures.github.io//ExamplePDFs/unsigned/URLA.pdf)
 
 ## Password Protected
-- [password encrypted - test.pdf](https://peculiarventures.github.io/ExamplePDFs/password/password encrypted - test.pdf) 
+- [password encrypted - test.pdf](https://peculiarventures.github.io/ExamplePDFs/password/password%20encrypted%20-%20test.pdf)
+
+## Not PDFs Yet
+- [sampleforms.doc](https://peculiarventures.github.io/notPDFs/ExamplePDFs/sampleforms.doc)
+- [contract-nda.doc](https://peculiarventures.github.io/notPDFs/ExamplePDFs/notPDFs/contract-nda.doc)
