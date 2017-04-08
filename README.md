@@ -27,5 +27,5 @@ The gh-pages branch of this repository contains several PDFs, some with digital 
 - [password encrypted - test.pdf](https://peculiarventures.github.io/ExamplePDFs/password/password%20encrypted%20-%20test.pdf)
 
 ## Not PDFs Yet
-- [sampleforms.doc](https://peculiarventures.github.io//ExamplePDFs/sampleforms.doc)
-- [contract-nda.doc](https://peculiarventures.github.io//ExamplePDFs/notPDFs/contract-nda.doc)
+- [sampleforms.doc](https://peculiarventures.github.io/notPDFs/ExamplePDFs/sampleforms.doc)
+- [contract-nda.doc](https://peculiarventures.github.io/notPDFs/ExamplePDFs/notPDFs/contract-nda.doc)
