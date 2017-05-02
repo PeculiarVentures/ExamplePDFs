@@ -24,8 +24,10 @@ The gh-pages branch of this repository contains several PDFs, some with digital 
 - [N-DA](https://peculiarventures.github.io//ExamplePDFs/unsigned/N-DA.pdf)
 - [RfRoTR](https://peculiarventures.github.io//ExamplePDFs/unsigned/RfRoTR.pdf)
 - [URLA](https://peculiarventures.github.io//ExamplePDFs/unsigned/URLA.pdf)
-- [washington-state-month-to-month-rental-agreement.pdf](https://peculiarventures.github.io//ExamplePDFs/unsigned/washington-state-month-to-month-rental-agreement.pdf)
+- [washington-state-month-to-month-rental-agreement.pdf](https://peculiarventures.github.io/ExamplePDFs/unsigned/washington-state-month-to-month-rental-agreement.pdf)
 - [schengen_visa_en.pdf](https://peculiarventures.github.io//ExamplePDFs/unsigned/schengen_visa_en.pdf)
+- [bitcoin.pdf](https://peculiarventures.github.io/ExamplePDFs/unsigned/bitcoin.pdf)
+
 
 ## Password Protected
 - [password encrypted - test.pdf](https://peculiarventures.github.io/ExamplePDFs/password/password%20encrypted%20-%20test.pdf)
