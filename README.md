@@ -30,6 +30,7 @@ The gh-pages branch of this repository contains several PDFs, some with digital 
 - [washington-state-month-to-month-rental-agreement.pdf](https://peculiarventures.github.io/ExamplePDFs/unsigned/washington-state-month-to-month-rental-agreement.pdf)
 - [schengen_visa_en.pdf](https://peculiarventures.github.io//ExamplePDFs/unsigned/schengen_visa_en.pdf)
 - [bitcoin.pdf](https://peculiarventures.github.io/ExamplePDFs/unsigned/bitcoin.pdf)
+- [35r.pdf](https://peculiarventures.github.io/ExamplePDFs/unsigned/35r.pdf)
 
 
 
