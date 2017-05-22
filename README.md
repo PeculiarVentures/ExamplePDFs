@@ -45,6 +45,8 @@ The gh-pages branch of this repository contains several PDFs, some with digital 
 - [Staff-Details-Form.doc](https://peculiarventures.github.io/ExamplePDFs/notPDFs/Staff-Details-Form.doc)
 - [nda-form-individual.docx](https://peculiarventures.github.io/ExamplePDFs/notPDFs/nda-form-individual.docx)
 - [mutual-nda.docx](https://peculiarventures.github.io/ExamplePDFs/notPDFs/mutual-nda.docx)
+- [heloc-application](https://peculiarventures.github.io/ExamplePDFs/notPDFs/CCF-220H_%20HELOC_%20Consumer_%20Loan_%20App%20-%20Word%20Form%20Example.doc)
+
 
 
    
