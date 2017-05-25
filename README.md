@@ -15,7 +15,7 @@ The gh-pages branch of this repository contains several PDFs, some with digital 
 - [f1040.pdf](https://peculiarventures.github.io/ExamplePDFs/unsigned/f1040.pdf)
 - [fw9.pdf](https://peculiarventures.github.io/ExamplePDFs/unsigned/fw9.pdf)
 - [ss-5.pdf](https://peculiarventures.github.io/ExamplePDFs/unsigned/ss-5.pdf)
-- [UoW1993.pdf](https://peculiarventures.github.io/ExamplePDFs/unsigned/UoW1993.pdf)
+- [UoW1993.pdf](https://peculiarventures.github.io/ExamplePDFs/unsigned/UoW1993.pdf) `REQUIRED FIELDS`
 - [i983.pdf](https://peculiarventures.github.io/ExamplePDFs/unsigned/i983.pdf)
 - [RMJ1_atf-f-4473-1.pdf](https://peculiarventures.github.io/ExamplePDFs/unsigned/RMJ1_atf-f-4473-1.pdf)
 - [212241.pdf](https://peculiarventures.github.io/ExamplePDFs/unsigned/212241.pdf)
