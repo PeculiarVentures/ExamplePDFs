@@ -30,6 +30,7 @@
 - [schengen_visa_en.pdf](https://peculiarventures.github.io//ExamplePDFs/unsigned/schengen_visa_en.pdf)
 - [bitcoin.pdf](https://peculiarventures.github.io/ExamplePDFs/unsigned/bitcoin.pdf)
 - [35R.pdf](https://peculiarventures.github.io/ExamplePDFs/unsigned/35R.pdf)
+- [f1099msc.pdf](https://peculiarventures.github.io/ExamplePDFs/unsigned/f1099msc.pdf)
 
 ## Password Protected
 - [password encrypted - test.pdf](https://peculiarventures.github.io/ExamplePDFs/password/password%20encrypted%20-%20test.pdf)
