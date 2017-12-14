@@ -8,7 +8,7 @@
 - [Eksempel_på_underskrevet_dokument.pdf](https://peculiarventures.github.io/ExamplePDFs/signed/Eksempel_på_underskrevet_dokument.pdf) `CERTIFIED`
 - [bitcoin-signed.pdf](https://peculiarventures.github.io/ExamplePDFs/signed/bitcoin-signed.pdf)
 - [PV_malformed.pdf](https://peculiarventures.github.io/ExamplePDFs/signed/PV_malformed.pdf) `INVALID`
-- [aatl_technical_requirements_v2.0.pdf](https://peculiarventures.github.io/ExamplePDFs/signed/aatl_technical_requirements_v2.0.pdf) `CERTIFIED`
+- [aatl_technical_requirements_v2.0.pdf](https://peculiarventures.github.io/ExamplePDFs/signed/aatl_technical_requirements_v2.0.pdf) `DOCUMENT TIMESTAMP`
 
 ## Unsigned
 - [notaryverificationform.pdf](https://peculiarventures.github.io/ExamplePDFs/unsigned/notaryverificationform.pdf)
