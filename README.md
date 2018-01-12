@@ -9,6 +9,9 @@
 - [bitcoin-signed.pdf](https://peculiarventures.github.io/ExamplePDFs/signed/bitcoin-signed.pdf)
 - [PV_malformed.pdf](https://peculiarventures.github.io/ExamplePDFs/signed/PV_malformed.pdf) `INVALID`
 - [aatl_technical_requirements_v2.0.pdf](https://peculiarventures.github.io/ExamplePDFs/signed/aatl_technical_requirements_v2.0.pdf) `DOCUMENT TIMESTAMP`
+- [aatl_technical_requirements_v2.0.pdf](https://peculiarventures.github.io/ExamplePDFs/signed/20180111-001 - signed with hancock.pdf) `QUALIFIED WITH ROCA`
+
+
 
 ## Unsigned
 - [notaryverificationform.pdf](https://peculiarventures.github.io/ExamplePDFs/unsigned/notaryverificationform.pdf)
