@@ -79,4 +79,7 @@
 - [mutual-nda.docx](https://peculiarventures.github.io/ExamplePDFs/notPDFs/mutual-nda.docx)  `FIELD DETECTION` `NO FLAG`
 - [heloc-application](https://peculiarventures.github.io/ExamplePDFs/notPDFs/CCF-220H_%20HELOC_%20Consumer_%20Loan_%20App%20-%20Word%20Form%20Example.doc) `FIELD DETECTION` 
 
+## External
+- [Mueller Report](http://localhost:3001/document?url=https://cdn.cnn.com/cnn/2019/images/04/18/mueller-report-searchable.pdf)
+
 
