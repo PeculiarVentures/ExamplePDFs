@@ -41,6 +41,7 @@
 - [f1099msc.pdf](https://peculiarventures.github.io/ExamplePDFs/unsigned/f1099msc.pdf) `ALL FIELDS READ-ONLY`
 - [Basic%20Form.pdf](https://peculiarventures.github.io/ExamplePDFs/unsigned/Basic%20Form.pdf)
 - [2019-05-09_gleif_annual-report_2018-final.pdf](https://peculiarventures.github.io/ExamplePDFs/unsigned/2019-05-09_gleif_annual-report_2018-final.pdf)
+- [digital_signature_law.pdf](https://peculiarventures.github.io/ExamplePDFs/unsigned/digital_signature_law.pdf)
 
 
 ### Common Greek Files
