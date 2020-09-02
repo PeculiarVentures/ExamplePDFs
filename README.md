@@ -14,7 +14,7 @@
 - [B25N236012018026603-204.pdf](https://peculiarventures.github.io/ExamplePDFs/signed/B25N236012018026603-204.pdf) `INCOMPLETE CHAIN` `UNTRUSTED CA CHAIN` `INVALID AIA:OCSP` `INVALID AIA:Issuer` `SHA1` `RSA 1024`
 - [no_sig.pdf](https://peculiarventures.github.io/ExamplePDFs/signed/no_sig.pdf) `INCOMPLETE CHAIN`
 - [amazon_refund_signed-malformed.pdf](https://peculiarventures.github.io/ExamplePDFs/signed/amazon_refund_signed-malformed.pdf) `MALFORMED SIGNATURE`
-
+- [MHNXT02.08VC-004.PDF](https://peculiarventures.github.io/ExamplePDFs/signed/MHNXT02.08VC-004.PDF) `CODE SIGN EKU`
 
 
 ## Unsigned
